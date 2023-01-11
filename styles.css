@@ -44,6 +44,11 @@
     padding-left: 5px;
 }
 
+.links li:hover {
+    cursor: pointer;
+    background-color: #38bdf8;
+}
+
 .sub-links li {
     list-style: none;
     color: #fff;
